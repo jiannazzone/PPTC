@@ -1,3 +1,8 @@
+'''
+Use this python code to predict future race times when given a past race time. It uses the formula found on the NYRR website: https://www.nyrr.org/new-race-procedures/calculated-pace-and-corral-updates
+'''
+
+
 # Create race menus and initialize variables
 race_menu = ["Marathon","Half Marathon","10K","5K","Mile","Other"]
 race_distance_menu = [42195, 21097.5,10000,5000,1609.34]
